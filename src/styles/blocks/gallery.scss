@@ -1,9 +1,0 @@
-.gallery {
-  &__place {
-    margin-bottom: 32px;
-
-    @include mediaOnDesktop {
-      margin-bottom: 40px;
-    }
-  }
-}

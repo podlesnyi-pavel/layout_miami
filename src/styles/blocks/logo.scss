@@ -1,9 +1,0 @@
-.logo {
-  &__image {
-    height: 48px;
-    
-    @include mediaOnDesktop {
-      height: 80px;
-    }
-  }
-}

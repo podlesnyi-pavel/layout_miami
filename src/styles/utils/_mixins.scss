@@ -1,5 +1,0 @@
-@mixin mediaOnDesktop {
-  @media (min-width: $breakpoint-desktop) {
-    @content;
-  }
-}
